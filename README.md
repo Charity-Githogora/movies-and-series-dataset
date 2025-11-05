@@ -18,7 +18,7 @@ It includes information such as genre, release year, language, age rating, direc
 | **AGE RATING** | Viewer age classification (e.g., PG-13, R, TV-MA) |
 | **DIRECTOR** | Director(s) of the movie or series |
 | **CREATORS** | Creator(s) or showrunner(s) (mainly for series) |
-| **RATING IMDb** | IMDb rating out of 10 |
+| **RATING IMDb** | IMDb rating |
 | **RATING SCALE** | IMDb rating out of 10/5 |
 | **PRODUCTION COMPANY** | Studio, network, or streaming platform behind the production |
 | **BUDGET (USD)** | Estimated production budget in US dollars |
